@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://github.com/Dianina1998/Dianina1998/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner%20(1).png?raw=true" width="800"/>
+   <img src="https://github.com/Dianina1998/Dianina1998/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner%20(2).png?raw=true" width="800"/>
  </div>
  
 ## Hello everyone, I'm Dianina👋👩‍💻
@@ -13,7 +13,7 @@ I am an economist with a background in data analysis and financial analysis. I h
 💻 Passionate about process optimization.
 📊 Specialist in data analysis and visualization.
 
-<h2>Análisis de Datos y Visualización</h2>
+<h2>Data Analysis and Visualization</h2>
  
  
  <div align="center">
