@@ -1,4 +1,9 @@
-## Hello everyone, I'm Dianina👋
+<div id="header" align="center">
+   <img src="https://github.com/Dianina1998/Dianina1998/blob/main/+51%20952297402%20%20dianinatuctolopez@gmail.com%20(1).png?raw=true" width="800"/>
+ </div>
+ 
+## Hello everyone, I'm Dianina👋👩‍💻
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dianina-tucto)
 
 <!--
 **Dianina1998/Dianina1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
